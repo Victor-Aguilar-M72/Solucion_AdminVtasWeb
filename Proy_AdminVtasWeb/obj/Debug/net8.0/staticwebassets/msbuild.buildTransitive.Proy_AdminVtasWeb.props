@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Proy_AdminVtasWeb.props" />
+</Project>

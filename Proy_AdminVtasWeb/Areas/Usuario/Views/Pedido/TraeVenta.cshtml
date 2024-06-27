@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Detalle Inventario";
+}
+<br />
+<div class="text-center">
+    <h5 class="display-6">Pedido del Cliente: @User.Identity?.Name </h5>
+    <br />
+    <div>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th class="text-light bg-dark">IdPedido</th>
+                    <th class="text-light bg-dark">Sucursal</th>
+                    <th class="text-light bg-dark">Articulo</th>
+                    <th class="text-light bg-dark">Cliente</th>
+                    @* <th class="text-light bg-dark">Precio</th> *@
+                    <th class="text-light bg-dark">Cantidad</th>
+@*                     <th class="text-light bg-dark">Importe Venta</th> *@
+                </tr>
+            </thead>
+            @{
+                if (ViewBag.Venta != null)
+                {
+                    foreach (var item in ViewBag.Venta)
+                    {
+                        <tr class="table-secondary">
+                            <td>@item.IdPedido  </td>
+                            <td>@item.Sucursal  </td>
+                            <td>@item.Descripcion  </td>
+                            <td>@item.Cliente  </td>
+                            <td>@item.Cantidad  </td>
+                        </tr>
+                    }
+                }
+            }
+        </table>
+    </div>
+</div>

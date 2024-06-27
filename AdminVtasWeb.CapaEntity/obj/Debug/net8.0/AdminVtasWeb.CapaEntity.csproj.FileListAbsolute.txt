@@ -1,0 +1,14 @@
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\bin\Debug\net8.0\AdminVtasWeb.CapaEntity.deps.json
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\bin\Debug\net8.0\AdminVtasWeb.CapaEntity.runtimeconfig.json
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\bin\Debug\net8.0\AdminVtasWeb.CapaEntity.dll
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\bin\Debug\net8.0\AdminVtasWeb.CapaEntity.pdb
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\obj\Debug\net8.0\AdminVtasWeb.CapaEntity.csproj.AssemblyReference.cache
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\obj\Debug\net8.0\AdminVtasWeb.CapaEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\obj\Debug\net8.0\AdminVtasWeb.CapaEntity.AssemblyInfoInputs.cache
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\obj\Debug\net8.0\AdminVtasWeb.CapaEntity.AssemblyInfo.cs
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\obj\Debug\net8.0\AdminVtasWeb.CapaEntity.csproj.CoreCompileInputs.cache
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\obj\Debug\net8.0\AdminVtasWeb.CapaEntity.dll
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\obj\Debug\net8.0\refint\AdminVtasWeb.CapaEntity.dll
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\obj\Debug\net8.0\AdminVtasWeb.CapaEntity.pdb
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\obj\Debug\net8.0\AdminVtasWeb.CapaEntity.genruntimeconfig.cache
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaEntity\obj\Debug\net8.0\ref\AdminVtasWeb.CapaEntity.dll

@@ -1,0 +1,84 @@
+﻿@model AdminVtasWeb.CapaEntity.Pedido
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Carga Pedido";
+}
+<h1>Crea Pedido Articulos</h1>
+@* <h4>@User.Identity?.Name</h4> *@
+<form method="post" class="form-floating">
+
+    <div class="form-group">
+        <label class="form-label">Articulo</label>
+        <select class="form-select form-select-sm" asp-for="codigo" id="cbocodigo" />
+     </div>
+    <div class="form-group">
+        <br/>
+        @* <label asp-for="Cliente" ></label> *@
+        <label asp-for="Cliente" id="Usuario" >Usuario</label>
+        <input class="form-control" visible="false" asp-for="Cliente" value="@User.Identity?.Name" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Cantidad"></label>
+        <input class="form-control" asp-for="Cantidad" />
+    </div>
+    <br />
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Guardar</button>
+    </div>
+
+</form>
+
+
+@section Scripts{
+    <script>
+        $(document).ready(function (){
+            obtenerArticulos()
+        })
+        var _IdArticulo = $("#cbocodigo option:selected").val()
+        function obtenerArticulos() {
+            $.ajax({
+                url: "@Url.Action("obtenerArticulo", "Pedido")",
+                type: "GET",
+                dataType:"json",
+                data: {
+                    codigo: "",
+                    codigo: "b_descripcion",
+                    codigo: "b_descripcion2"
+                },
+                success: function (response) {
+                    console.log(response)
+
+                    $("#cbocodigo").append(
+                        $("<option>").attr({ "value": "" }).text("Seleccionar")
+                    )
+
+                    $.each(response, function(i, elemento){
+                        $("#cbocodigo").append(
+                            $("<option>").attr({ "value": elemento.codigo }).text(elemento.descripcion   )
+                        )
+                    })
+
+                    $("#cbocodigo").select2({ placeholder: "Seleccionar", width: "50%" });
+
+
+                }
+            })
+        }
+    </script>
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+

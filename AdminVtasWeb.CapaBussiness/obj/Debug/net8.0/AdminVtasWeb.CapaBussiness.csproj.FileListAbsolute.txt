@@ -1,0 +1,14 @@
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\bin\Debug\net8.0\AdminVtasWeb.CapaBussiness.deps.json
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\bin\Debug\net8.0\AdminVtasWeb.CapaBussiness.runtimeconfig.json
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\bin\Debug\net8.0\AdminVtasWeb.CapaBussiness.dll
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\bin\Debug\net8.0\AdminVtasWeb.CapaBussiness.pdb
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\obj\Debug\net8.0\AdminVtasWeb.CapaBussiness.csproj.AssemblyReference.cache
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\obj\Debug\net8.0\AdminVtasWeb.CapaBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\obj\Debug\net8.0\AdminVtasWeb.CapaBussiness.AssemblyInfoInputs.cache
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\obj\Debug\net8.0\AdminVtasWeb.CapaBussiness.AssemblyInfo.cs
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\obj\Debug\net8.0\AdminVtasWeb.CapaBussiness.csproj.CoreCompileInputs.cache
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\obj\Debug\net8.0\AdminVtasWeb.CapaBussiness.dll
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\obj\Debug\net8.0\refint\AdminVtasWeb.CapaBussiness.dll
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\obj\Debug\net8.0\AdminVtasWeb.CapaBussiness.pdb
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\obj\Debug\net8.0\AdminVtasWeb.CapaBussiness.genruntimeconfig.cache
+C:\Tools\Empleo\Emp_Loyalty\Proyecto\Desarrollo\Solucion_AdminVtasWeb\AdminVtasWeb.CapaBussiness\obj\Debug\net8.0\ref\AdminVtasWeb.CapaBussiness.dll

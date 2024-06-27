@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Proy_AdminVtasWeb.props" />
+</Project>

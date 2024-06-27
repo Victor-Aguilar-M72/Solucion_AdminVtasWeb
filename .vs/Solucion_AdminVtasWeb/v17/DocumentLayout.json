@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1747959D-52E8-4B3E-B3F8-7A9698FACF4E}|Proy_AdminVtasWeb\\Proy_AdminVtasWeb.csproj|c:\\tools\\empleo\\emp_loyalty\\proyecto\\desarrollo\\solucion_adminvtasweb\\proy_adminvtasweb\\areas\\usuario\\views\\pedido\\cargapedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1747959D-52E8-4B3E-B3F8-7A9698FACF4E}|Proy_AdminVtasWeb\\Proy_AdminVtasWeb.csproj|solutionrelative:proy_adminvtasweb\\areas\\usuario\\views\\pedido\\cargapedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1747959D-52E8-4B3E-B3F8-7A9698FACF4E}|Proy_AdminVtasWeb\\Proy_AdminVtasWeb.csproj|c:\\tools\\empleo\\emp_loyalty\\proyecto\\desarrollo\\solucion_adminvtasweb\\proy_adminvtasweb\\areas\\usuario\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1747959D-52E8-4B3E-B3F8-7A9698FACF4E}|Proy_AdminVtasWeb\\Proy_AdminVtasWeb.csproj|solutionrelative:proy_adminvtasweb\\areas\\usuario\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFEC9B4-EF77-4872-83EF-5834B36F5E58}|AdminVtasWeb.CapaEntity\\AdminVtasWeb.CapaEntity.csproj|c:\\tools\\empleo\\emp_loyalty\\proyecto\\desarrollo\\solucion_adminvtasweb\\adminvtasweb.capaentity\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFEC9B4-EF77-4872-83EF-5834B36F5E58}|AdminVtasWeb.CapaEntity\\AdminVtasWeb.CapaEntity.csproj|solutionrelative:adminvtasweb.capaentity\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFEC9B4-EF77-4872-83EF-5834B36F5E58}|AdminVtasWeb.CapaEntity\\AdminVtasWeb.CapaEntity.csproj|c:\\tools\\empleo\\emp_loyalty\\proyecto\\desarrollo\\solucion_adminvtasweb\\adminvtasweb.capaentity\\art\u00EDculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFEC9B4-EF77-4872-83EF-5834B36F5E58}|AdminVtasWeb.CapaEntity\\AdminVtasWeb.CapaEntity.csproj|solutionrelative:adminvtasweb.capaentity\\art\u00EDculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFEC9B4-EF77-4872-83EF-5834B36F5E58}|AdminVtasWeb.CapaEntity\\AdminVtasWeb.CapaEntity.csproj|c:\\tools\\empleo\\emp_loyalty\\proyecto\\desarrollo\\solucion_adminvtasweb\\adminvtasweb.capaentity\\codarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFEC9B4-EF77-4872-83EF-5834B36F5E58}|AdminVtasWeb.CapaEntity\\AdminVtasWeb.CapaEntity.csproj|solutionrelative:adminvtasweb.capaentity\\codarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFEC9B4-EF77-4872-83EF-5834B36F5E58}|AdminVtasWeb.CapaEntity\\AdminVtasWeb.CapaEntity.csproj|c:\\tools\\empleo\\emp_loyalty\\proyecto\\desarrollo\\solucion_adminvtasweb\\adminvtasweb.capaentity\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFEC9B4-EF77-4872-83EF-5834B36F5E58}|AdminVtasWeb.CapaEntity\\AdminVtasWeb.CapaEntity.csproj|solutionrelative:adminvtasweb.capaentity\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\AdminVtasWeb.CapaEntity\\Pedido.cs",
+              "RelativeDocumentMoniker": "AdminVtasWeb.CapaEntity\\Pedido.cs",
+              "ToolTip": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\AdminVtasWeb.CapaEntity\\Pedido.cs",
+              "RelativeToolTip": "AdminVtasWeb.CapaEntity\\Pedido.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:20:40.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Art\u00EDculo.cs",
+              "DocumentMoniker": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\AdminVtasWeb.CapaEntity\\Art\u00EDculo.cs",
+              "RelativeDocumentMoniker": "AdminVtasWeb.CapaEntity\\Art\u00EDculo.cs",
+              "ToolTip": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\AdminVtasWeb.CapaEntity\\Art\u00EDculo.cs",
+              "RelativeToolTip": "AdminVtasWeb.CapaEntity\\Art\u00EDculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:06:13.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CargaPedido.cshtml",
+              "DocumentMoniker": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\Proy_AdminVtasWeb\\Areas\\Usuario\\Views\\Pedido\\CargaPedido.cshtml",
+              "RelativeDocumentMoniker": "Proy_AdminVtasWeb\\Areas\\Usuario\\Views\\Pedido\\CargaPedido.cshtml",
+              "ToolTip": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\Proy_AdminVtasWeb\\Areas\\Usuario\\Views\\Pedido\\CargaPedido.cshtml",
+              "RelativeToolTip": "Proy_AdminVtasWeb\\Areas\\Usuario\\Views\\Pedido\\CargaPedido.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T16:22:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\Proy_AdminVtasWeb\\Areas\\Usuario\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Proy_AdminVtasWeb\\Areas\\Usuario\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\Proy_AdminVtasWeb\\Areas\\Usuario\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Proy_AdminVtasWeb\\Areas\\Usuario\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:16:04.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodArticulo.cs",
+              "DocumentMoniker": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\AdminVtasWeb.CapaEntity\\CodArticulo.cs",
+              "RelativeDocumentMoniker": "AdminVtasWeb.CapaEntity\\CodArticulo.cs",
+              "ToolTip": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\AdminVtasWeb.CapaEntity\\CodArticulo.cs",
+              "RelativeToolTip": "AdminVtasWeb.CapaEntity\\CodArticulo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:59:21.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\AdminVtasWeb.CapaEntity\\Venta.cs",
+              "RelativeDocumentMoniker": "AdminVtasWeb.CapaEntity\\Venta.cs",
+              "ToolTip": "C:\\Tools\\Empleo\\Emp_Loyalty\\Proyecto\\Desarrollo\\Solucion_AdminVtasWeb\\AdminVtasWeb.CapaEntity\\Venta.cs",
+              "RelativeToolTip": "AdminVtasWeb.CapaEntity\\Venta.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:57:54.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
